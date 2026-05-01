@@ -127,7 +127,7 @@ The workflow produces:
 
 ## Scope note
 
-The workflow is designed for first-stage market-entry screening under public-data constraints. The 2023 design is cross-sectional. ETI is available for 25 countries in the retained route, while Luxembourg is confidential and Romania is unavailable or low reliability. MP uses a documented total-population fallback. LPI is used both in the execution-feasibility backbone and in the downstream tier gate.
+The workflow is designed for first-stage market-entry screening under public-data constraints. The 2023 design is cross-sectional. ETI is available for 25 countries in the retained route, while Luxembourg is confidential and Romania is unavailable/low reliability. MP uses a documented total-population fallback. LPI is used both in the execution-feasibility backbone and in the downstream tier gate.
 
 ## Citation note
 
