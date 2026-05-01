@@ -132,7 +132,7 @@ The workflow produces:
 
 ## Limitations
 
-The repository reflects the retained manuscript design and should be interpreted within the study scope. The analysis is cross-sectional and uses 2023 as the common reference year. ETI is usable for 25 countries, not the full EU-27, because Luxembourg is confidential and Romania is unavailable or low reliability in the retained 2023 route. MP uses a documented total-population fallback in the current package. LPI is used both in the execution-feasibility backbone and in the downstream gate; this dual role is disclosed as a design limitation.
+The repository reflects the retained manuscript design and should be interpreted within the study scope. The analysis is cross-sectional and uses 2023 as the common reference year. ETI is usable for 25 countries, not the full EU-27, because Luxembourg is confidential and Romania is unavailable/low reliability in the retained 2023 route. MP uses a documented total-population fallback in the current package. LPI is used both in the execution-feasibility backbone and in the downstream gate; this dual role is disclosed as a design limitation.
 
 ## Citation note
 
