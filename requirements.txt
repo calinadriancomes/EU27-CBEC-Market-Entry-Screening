@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+openpyxl
+eurostat
+ipywidgets
+adjustText
+geopandas
+shapely
