@@ -49,7 +49,6 @@ docs/
 
 README.md
 requirements.txt
-.gitignore
 ```
 
 ## Notebooks
