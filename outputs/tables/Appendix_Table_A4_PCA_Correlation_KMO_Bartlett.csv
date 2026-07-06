@@ -1,0 +1,14 @@
+﻿section,variable_1,variable_2,correlation,diagnostic,value,note
+correlation_matrix,esp_pct,esp_pct,1.0,,,
+correlation_matrix,dfp_pct,esp_pct,0.644224807343551,,,
+correlation_matrix,lpi_score,esp_pct,0.40033269999234555,,,
+correlation_matrix,esp_pct,dfp_pct,0.644224807343551,,,
+correlation_matrix,dfp_pct,dfp_pct,1.0,,,
+correlation_matrix,lpi_score,dfp_pct,0.49828271478411224,,,
+correlation_matrix,esp_pct,lpi_score,0.40033269999234555,,,
+correlation_matrix,dfp_pct,lpi_score,0.49828271478411224,,,
+correlation_matrix,lpi_score,lpi_score,1.0,,,
+diagnostics,,,,KMO,0.649066,Transparency diagnostic only; N=27 and three variables
+diagnostics,,,,Bartlett chi-square,20.203327,Transparency diagnostic only; N=27 and three variables
+diagnostics,,,,Bartlett df,3.0,Transparency diagnostic only; N=27 and three variables
+diagnostics,,,,Bartlett p-value,0.00015404353577884986,Transparency diagnostic only; N=27 and three variables

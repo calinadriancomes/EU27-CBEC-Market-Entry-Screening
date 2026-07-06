@@ -1,0 +1,6 @@
+﻿Metric,Value,Interpretation note
+Explained variance ratio (PC1),0.6784,PCA-derived screening axis; transparency diagnostic
+Condition number (standardized backbone),2.4395,Collinearity diagnostic
+ESP loading,0.5868,Backbone contribution
+DFP loading,0.6173,Backbone contribution; proxy interpreted cautiously
+LPI loading,0.524,Backbone contribution; LPI dual-use disclosed separately

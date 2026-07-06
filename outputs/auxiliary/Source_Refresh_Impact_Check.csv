@@ -1,0 +1,5 @@
+﻿country_code,variable,prior_v47_value,revised_value,downstream_check,pc1_rank_changes_from_dfp_refresh,screening_band_changes_from_dfp_refresh,mp_rank_changes_from_mt_incidence_refresh,gdp_rank_changes_from_hu_gdp_refresh,interpretation_note
+MT,dfp_pct,67.38,68.05,PC1 rank and screening-band impact checked,None,None,None,"HU, RO",source-refresh impact documented; manuscript interpretation should not silently ignore these values
+MT,cbo_pct,64.25,63.44,Overlay value/rank impact checked,None,None,None,"HU, RO",source-refresh impact documented; manuscript interpretation should not silently ignore these values
+MT,mp_online_shopping_pct,67.68,68.69,Overlay value/rank impact checked,None,None,None,"HU, RO",source-refresh impact documented; manuscript interpretation should not silently ignore these values
+HU,gdp_pps_index,76.0,75.0,GDP_PPS rank-difference diagnostic impact checked,None,None,None,"HU, RO",source-refresh impact documented; manuscript interpretation should not silently ignore these values

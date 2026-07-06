@@ -1,0 +1,16 @@
+﻿region_code,country,pc1_ef_score,lpi_score,screening_band,pc1_only_tertile_band,changed_baseline_vs_pc1_only,pc1_no_lpi_score,no_lpi_backbone_tertile_band,changed_baseline_vs_no_lpi,boundary_reason
+CY,Cyprus,-0.6106549149523967,3.2,Lower screening band,Middle screening band,True,-0.060332562329286424,Middle screening band,True,LPI boundary/same-score case; changed vs PC1-only; changed vs no-LPI
+MT,Malta,-0.018627628232137497,3.2,Lower screening band,Middle screening band,True,0.6588189272143044,Higher screening band,True,LPI boundary/same-score case; changed vs PC1-only; changed vs no-LPI
+SK,Slovakia,-1.2905326491958797,3.3,Lower screening band,Lower screening band,False,-1.044067561275319,Lower screening band,False,LPI boundary/same-score case
+PT,Portugal,-1.2872745066910634,3.3,Lower screening band,Lower screening band,False,-1.04250007033995,Lower screening band,False,LPI boundary/same-score case
+SI,Slovenia,-0.7685830471780526,3.3,Lower screening band,Lower screening band,False,-0.4211183701080758,Middle screening band,True,LPI boundary/same-score case; changed vs no-LPI
+HU,Hungary,-0.6641593932324023,3.3,Lower screening band,Middle screening band,True,-0.3051016261960401,Middle screening band,True,LPI boundary/same-score case; changed vs PC1-only; changed vs no-LPI
+HR,Croatia,-0.2432347029833633,3.3,Lower screening band,Middle screening band,True,0.20954612398567804,Middle screening band,True,LPI boundary/same-score case; changed vs PC1-only; changed vs no-LPI
+CZ,Czechia,-0.05562177950006145,3.3,Middle screening band,Middle screening band,False,0.39911284355952237,Middle screening band,False,LPI boundary/same-score case
+IE,Ireland,0.8811667417532375,3.3,Higher screening band,Higher screening band,False,1.5200220465595817,Higher screening band,False,LPI boundary/same-score case; pre-flagged edge case
+EL,Greece,-1.2053463908963966,3.4,Middle screening band,Lower screening band,True,-1.120951462987896,Lower screening band,True,LPI boundary/same-score case; changed vs PC1-only; changed vs no-LPI
+PL,Poland,-1.1214949445238638,3.4,Middle screening band,Lower screening band,True,-1.0343010682093527,Lower screening band,True,LPI boundary/same-score case; changed vs PC1-only; changed vs no-LPI
+LU,Luxembourg,-1.0604515854409136,3.4,Middle screening band,Lower screening band,True,-0.9852424431071064,Lower screening band,True,LPI boundary/same-score case; changed vs PC1-only; changed vs no-LPI
+IT,Italy,-0.8161811509744205,3.7,Middle screening band,Lower screening band,True,-1.224495131535974,Lower screening band,True,LPI boundary/same-score case; changed vs PC1-only; changed vs no-LPI
+AT,Austria,1.064072423151036,4.0,Higher screening band,Higher screening band,False,0.41580222971857383,Middle screening band,True,LPI boundary/same-score case; changed vs no-LPI; pre-flagged edge case
+DE,Germany,0.2516500902352847,4.1,Middle screening band,Middle screening band,False,-0.7138111139647281,Lower screening band,True,LPI boundary/same-score case; changed vs no-LPI

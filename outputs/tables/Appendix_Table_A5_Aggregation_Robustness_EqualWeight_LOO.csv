@@ -1,0 +1,7 @@
+﻿section,metric,value,note,kept_variables,max_absolute_rank_shift,mean_absolute_rank_shift,interpretation_note
+equal_weight_summary,Spearman rho vs PC1_EF,0.9987789987789988,"Aggregation-rule robustness, not PCA superiority",,,,
+equal_weight_summary,Pearson r vs PC1_EF,0.9993886816402485,"Aggregation-rule robustness, not PCA superiority",,,,
+equal_weight_summary,Max absolute rank shift,1.0,Country ranking sensitivity,,,,
+leave_one_variable_out_summary,Drop esp_pct,0.9267399267399267,,"dfp_pct, lpi_score",7.0,2.2222222222222223,proxy sensitivity check; interpret cautiously
+leave_one_variable_out_summary,Drop dfp_pct,0.945054945054945,,"esp_pct, lpi_score",6.0,1.7777777777777777,proxy sensitivity check; interpret cautiously
+leave_one_variable_out_summary,Drop lpi_score,0.9194139194139194,,"esp_pct, dfp_pct",9.0,2.3703703703703702,proxy sensitivity check; interpret cautiously

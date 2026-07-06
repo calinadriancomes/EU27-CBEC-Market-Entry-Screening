@@ -1,0 +1,9 @@
+﻿Check,N,Metric,Observed value,p-value,Diagnostic finding
+ETI criterion-consistency,25,Spearman rho,0.4862,0.014,positive criterion-consistency evidence
+GDP_PPS prosperity association,27,Spearman rho,0.6661,< 0.001,prosperity association reported
+CBO overlay diagnostic,27,Spearman rho,0.1374,0.494,demand-side overlay check
+LPI gate-family sensitivity,27,maximum screening-band change share,0.1111,not applicable,gate-family sensitivity check
+Equal-weight aggregation robustness,27,Spearman rho vs PC1_EF,0.9988,< 0.001,aggregation-rule robustness; max rank shift 1
+No-DFP leave-one-variable-out,27,Spearman rho vs baseline PC1_EF,0.9451,not applicable,DFP proxy sensitivity
+No-LPI leave-one-variable-out,27,Spearman rho vs baseline PC1_EF,0.9194,not applicable,LPI sensitivity
+No-LPI/no-gate band sensitivity,27,changed countries,PC1-only: 8; no-LPI: 11,not applicable,screening-band sensitivity

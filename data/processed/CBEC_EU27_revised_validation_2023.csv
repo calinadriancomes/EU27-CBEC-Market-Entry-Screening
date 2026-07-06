@@ -1,0 +1,28 @@
+﻿region_code,country,source_year,package_version,eti_pct,eti_dataset_code,eti_status_or_note
+AT,Austria,2023,revised_candidate_2023_mp16_74,4.27,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+BE,Belgium,2023,revised_candidate_2023_mp16_74,9.48,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+BG,Bulgaria,2023,revised_candidate_2023_mp16_74,4.28,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+CY,Cyprus,2023,revised_candidate_2023_mp16_74,9.26,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+CZ,Czechia,2023,revised_candidate_2023_mp16_74,9.23,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+DE,Germany,2023,revised_candidate_2023_mp16_74,7.18,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+DK,Denmark,2023,revised_candidate_2023_mp16_74,7.02,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+EE,Estonia,2023,revised_candidate_2023_mp16_74,7.54,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+EL,Greece,2023,revised_candidate_2023_mp16_74,5.05,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+ES,Spain,2023,revised_candidate_2023_mp16_74,8.56,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+FI,Finland,2023,revised_candidate_2023_mp16_74,6.52,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+FR,France,2023,revised_candidate_2023_mp16_74,3.89,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+HR,Croatia,2023,revised_candidate_2023_mp16_74,7.04,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+HU,Hungary,2023,revised_candidate_2023_mp16_74,6.54,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+IE,Ireland,2023,revised_candidate_2023_mp16_74,19.67,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+IT,Italy,2023,revised_candidate_2023_mp16_74,4.75,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+LT,Lithuania,2023,revised_candidate_2023_mp16_74,9.92,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+LU,Luxembourg,2023,revised_candidate_2023_mp16_74,,isoc_ec_evals (PC_ETURN fallback),missing/confidential/unavailable in retained route
+LV,Latvia,2023,revised_candidate_2023_mp16_74,5.93,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+MT,Malta,2023,revised_candidate_2023_mp16_74,5.95,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+NL,Netherlands,2023,revised_candidate_2023_mp16_74,10.2,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+PL,Poland,2023,revised_candidate_2023_mp16_74,6.11,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+PT,Portugal,2023,revised_candidate_2023_mp16_74,7.11,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+RO,Romania,2023,revised_candidate_2023_mp16_74,,isoc_ec_evals (PC_ETURN fallback),missing/confidential/unavailable in retained route
+SE,Sweden,2023,revised_candidate_2023_mp16_74,10.47,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+SI,Slovenia,2023,revised_candidate_2023_mp16_74,4.09,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
+SK,Slovakia,2023,revised_candidate_2023_mp16_74,6.59,isoc_ec_evals (PC_TURN),usable for criterion-consistency check
