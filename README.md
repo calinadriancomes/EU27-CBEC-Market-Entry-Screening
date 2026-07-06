@@ -58,6 +58,10 @@ The study uses public country-level data for 2023. ETI coverage is partial in th
 
 The Colab notebooks install missing Python packages when needed. For users running the plain-Python counterparts locally, the main dependencies are listed in `requirements.txt`.
 
+## Citation note
+
+If you use this repository, please cite the associated manuscript once available.
+
 ## License
 
 Code and documentation are released under the MIT License unless otherwise noted. Public statistical data remain subject to the terms of their original providers.
