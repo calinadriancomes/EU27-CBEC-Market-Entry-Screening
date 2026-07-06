@@ -1,6 +1,6 @@
 # EU-27 CBEC Market-Entry Screening: reproducibility repository
 
-This repository supports a manuscript on first-stage screening of EU-27 cross-border e-commerce (CBEC) markets. It stores the notebooks, Python counterparts, input package, generated tables, figures, and source-data files used for the 2023 country-level analysis.
+This repository supports a manuscript on first-stage screening of EU-27 cross-border e-commerce (CBEC) markets, submitted for JTAER journal. It stores the notebooks, Python counterparts, input package, generated tables, figures, and source-data files used for the 2023 country-level analysis.
 
 The working route for this project was Google Colab. The notebooks in `notebooks/` are the recommended way to reproduce the workflow. The `.py` files in `scripts/` are plain-Python counterparts of the notebooks and are included for transparency, code review, and optional adaptation.
 
