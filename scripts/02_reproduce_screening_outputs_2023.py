@@ -830,7 +830,7 @@ def generate_figure2(results: Dict[str, Any], out_dir: Path, logs: List[Dict[str
         plotted.append(iso)
 
     ax.set_xlabel("PCA-derived execution-condition screening axis (PC1_EF)", fontsize=11)
-    ax.set_ylabel("Market potential, estimated e-shoppers aged 16-74 (millions)", fontsize=11)
+    ax.set_ylabel("Market potential, estimated e-shoppers aged 16–74 (millions)", fontsize=11)
 
     ax.set_title("EU-27 CBEC screening portfolio", fontsize=13, fontweight="bold", pad=10)
     ax.grid(True, color="#dddddd", linewidth=0.7, alpha=0.7, zorder=0)
